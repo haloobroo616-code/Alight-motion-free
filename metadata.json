@@ -1,0 +1,6 @@
+{
+  "name": "AxzyeDev — Alight Motion Premium Gratis",
+  "description": "Platform aktivasi Alight Motion Premium gratis, cepat, dan aman tanpa root. Dilengkapi dashboard, tools editor, dan broadcast pesan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
